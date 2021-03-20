@@ -1,1 +1,1 @@
-# project-c
+# patterns of project-c
